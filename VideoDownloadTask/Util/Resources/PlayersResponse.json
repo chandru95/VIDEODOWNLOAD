@@ -1,0 +1,55 @@
+
+{
+  "Response": {
+    "status": true,
+    "result": {
+      "SampleVideos": [
+        {
+        "Filename" : "MoonKnight",
+        "video": "https://github.com/ravanar-sk/Test_Assets/raw/main/v1.mp4"
+        },
+        {
+        "Filename" : "Matrix",
+        "video": "https://github.com/ravanar-sk/Test_Assets/raw/main/v2.mp4"
+        },
+        {
+            "Filename" : "Shazam",
+        "video": "https://github.com/ravanar-sk/Test_Assets/raw/main/v3.mp4"
+        },
+        {
+            "Filename" : "WonderWoman",
+        "video": "https://github.com/ravanar-sk/Test_Assets/raw/main/v4.mp4"
+        },
+        {
+            "Filename" : "BatMan",
+        "video": "https://github.com/ravanar-sk/Test_Assets/raw/main/v5.mp4"
+        },
+        {
+            "Filename" : "KingKong vs Godzilla",
+        "video": "https://github.com/ravanar-sk/Test_Assets/raw/main/v6.mp4"
+        },
+        {
+            "Filename" : "Dune",
+        "video": "https://github.com/ravanar-sk/Test_Assets/raw/main/v7.mp4"
+        },
+        {
+            "Filename" : "DoctorStrange",
+        "video": "https://github.com/ravanar-sk/Test_Assets/raw/main/v8.mp4"
+        },
+        {
+            "Filename" : "AntMan",
+        "video": "https://github.com/ravanar-sk/Test_Assets/raw/main/v9.mp4"
+        },
+        {
+            "Filename" : "BlackWidow",
+        "video": "https://github.com/ravanar-sk/Test_Assets/raw/main/v10.mp4"
+        },
+        {
+            "Filename" : "Horror",
+        "video": "https://github.com/ravanar-sk/Test_Assets/raw/main/v11.mp4"
+        }
+      ]
+    }
+  }
+}
+"https://mocki.io/v1/5e950519-b7a8-407c-bc7f-f6477d59a7a1"
